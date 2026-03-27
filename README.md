@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+##  Disciplined Trader
 
-## Getting Started
+     Trade the plan. Master the discipline.
 
-First, run the development server:
+A high-density journaling and signal verification platform engineered to eliminate emotional bias through automated checklist enforcement and multi-timeframe analysis.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##  Technical Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Frontend: Next.js 16 / TypeScript / Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    Backend: TypeScript / Node.js / High-Performance API
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+    Database: PostgreSQL (Neon)  / Prisma
 
-## Learn More
+    Auth: Better Auth
+   
 
-To learn more about Next.js, take a look at the following resources:
+ Core Systems
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    Hard-Stop Checklist: Circuit-breaker logic that prevents trade logging unless strategy criteria are met.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+    Signal Matrix: Real-time M15–Daily bias aggregation.
 
-## Deploy on Vercel
+    Behavioral Alpha: Automated adherence scoring (0-100%) to track strategy drift.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    No-Noise UI: Designed for peak cognitive focus during live market hours.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+Developed by Nebiou Daniel  "Learn more, build better."
